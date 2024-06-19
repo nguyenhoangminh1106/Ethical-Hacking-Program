@@ -2,5 +2,6 @@
 <ul>
   <li>MAC Changer</li>
   <li>Network Scanner</li>
-  <li>ARP Spoofing</li>
+  <li>ARP Spoof</li>
+  <li>Packet Sniffer</li>
 </ul>
