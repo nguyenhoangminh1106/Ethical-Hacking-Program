@@ -4,4 +4,6 @@
   <li>Network Scanner</li>
   <li>ARP Spoof</li>
   <li>Packet Sniffer</li>
+  <li>Net Cut</li>
+  <li>DNS Spoofing</li>
 </ul>
