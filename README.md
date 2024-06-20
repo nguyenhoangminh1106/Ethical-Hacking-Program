@@ -6,4 +6,5 @@
   <li>Packet Sniffer</li>
   <li>Net Cut</li>
   <li>DNS Spoofing</li>
+  <li>File Interceptor</li>
 </ul>
